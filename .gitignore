@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / venv
+.env
+.venv
+
+# Data (adjust if needed)
+data/*.csv
+data/*.xlsx
+
+# OS junk
+.DS_Store
+Thumbs.db
