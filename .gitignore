@@ -16,3 +16,11 @@ data/*.xlsx
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+scripts/opdracht\ 5/train/
+scripts/opdracht\ 5/test/
